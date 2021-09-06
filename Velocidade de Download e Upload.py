@@ -1,7 +1,6 @@
+from tkinter import Tk
 from tkinter import *
 from speedtest import Speedtest
-import platform    # Para obter o nome do sistema operacional
-import subprocess  # Para executar um comando shell
 
 
 def analise():
@@ -17,28 +16,20 @@ def analise():
     up_label.config(text="Velocidade de Upload: " +
                     str(upload_speed) + " Mbps")  # Concatenação de string com resultado
 
-    ####################################################################################
-    ###PING###
-
-
-param = '-n' if platform.system().lower() == 'windows' else '-c'
-command = ['ping', param, '5', '8.8.8.8']
-ping = subprocess.call(command)
-
 
 root = Tk()  # Inicia o TKinter
 root.title("Internet Speed Tracker")  # Título da janela
-root.geometry('500x400')  # Tamanho da janela
-button = Button(root, text="Excutar Análise", width=30,
-                command=analise)  # Botão Excutar Análise
+root.geometry('600x500')  # Tamanho da janela
 
-button.pack()  # Inicia o botão
+button = Button(root, text="Excutar Análise", width=30,
+                command=analise).pack()   # Botão Excutar Análise
 
 down_label = Label(root, text="")
 down_label.pack()
 up_label = Label(root, text="")
 up_label.pack()
-ping.pack()
+ping_label = Label(root, text="")
+ping_label.pack()
 
 
 root.mainloop()
