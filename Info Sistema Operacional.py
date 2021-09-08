@@ -1,15 +1,12 @@
-# import os
-# from tkinter import *
-# from tkinter import ttk
 
-# for line in os.popen('systeminfo'):
-#     print(line.rstrip())
 import os
-from tkinter import *
-Outputfileobject = os.popen('systeminfo')
-Output = Outputfileobject.read()
-Outputfileobject.close()
-root = Tk()
-root.title("Output text")
-Text = Label(root, text=Output).pack()
-root.mainloop()
+import sys
+orig_stdout = sys.stdout
+out = open('resultado.txt', 'a', encoding='utf8')
+sys.stdout = out
+
+for line in os.popen('systeminfo'):
+    print(line.rstrip())
+
+sys.stdout = orig_stdout
+out.close()

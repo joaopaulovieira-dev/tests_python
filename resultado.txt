@@ -1,25 +1,101 @@
 
 ------------------------------------------------------
-* DATA/HORA: 08/09/2021 12:59
+> DATA/HORA: 08/09/2021 20:33
 ------------------------------------------------------
-* TESTE DE PING: 
+> TESTE DE PING: 
 
 Disparando 8.8.8.8 com 32 bytes de dados:
-Resposta de 8.8.8.8: bytes=32 tempo=8ms TTL=113
-Resposta de 8.8.8.8: bytes=32 tempo=8ms TTL=113
-Resposta de 8.8.8.8: bytes=32 tempo=8ms TTL=113
+Resposta de 8.8.8.8: bytes=32 tempo=15ms TTL=113
+Resposta de 8.8.8.8: bytes=32 tempo=12ms TTL=113
+Resposta de 8.8.8.8: bytes=32 tempo=15ms TTL=113
 
 Estat�sticas do Ping para 8.8.8.8:
     Pacotes: Enviados = 3, Recebidos = 3, Perdidos = 0 (0% de
              perda),
 Aproximar um n�mero redondo de vezes em milissegundos:
-    M�nimo = 8ms, M�ximo = 8ms, M�dia = 8ms
+    M�nimo = 12ms, M�ximo = 15ms, M�dia = 14ms
 
 ------------------------------------------------------ 
-* TESTE DE VELOCIDADE DE INTERNET:
+> TESTE DE VELOCIDADE DE INTERNET:
 
-Velocidade de Download: 296.9 Mbps
-Velocidade de Upload: 94.88 Mbps
+Velocidade de Download: 338.24 Mbps
+Velocidade de Upload: 73.75 Mbps
 
 ------------------------------------------------------ 
-* INFORMACOES DO COMPUTADOR:
+> INFORMAÇÕES DO COMPUTADOR:
+
+Nome do host:                              NOTEBOOK-DELL
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+VersÆo do sistema operacional:             10.0.19043 N/A compila‡Æo 19043
+Fabricante do sistema operacional:         Microsoft Corporation
+Configura‡Æo do SO:                        Esta‡Æo de trabalho aut“noma
+Tipo de compila‡Æo do sistema operacional: Multiprocessor Free
+Propriet rio registrado:                   joaopaulovieirapereira@hotmail.com.br
+Organiza‡Æo registrada:
+Identifica‡Æo do produto:                  00331-20210-00000-AA382
+Data da instala‡Æo original:               06/04/2021, 11:38:18
+Tempo de Inicializa‡Æo do Sistema:         03/09/2021, 11:30:06
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Inspiron 7580
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 142 Stepping 12 GenuineIntel ~1792 Mhz
+VersÆo do BIOS:                            Dell Inc. 1.13.0, 15/06/2021
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume3
+Localidade do sistema:                     pt-br;Portuguˆs (Brasil)
+Localidade de entrada:                     pt-br;Portuguˆs (Brasil)
+Fuso hor rio:                              (UTC-03:00) Bras¡lia
+Mem¢ria f¡sica total:                      16.191 MB
+Mem¢ria f¡sica dispon¡vel:                 5.721 MB
+Mem¢ria Virtual: Tamanho M ximo:           18.751 MB
+Mem¢ria Virtual: Dispon¡vel:               3.274 MB
+Mem¢ria Virtual: Em Uso:                   15.477 MB
+Local(is) de arquivo de pagina‡Æo:         C:\pagefile.sys
+Dom¡nio:                                   WORKGROUP
+Servidor de Logon:                         \\NOTEBOOK-DELL
+Hotfix(es):                                7 hotfix(es) instalado(s).
+                                           [01]: KB5004331
+                                           [02]: KB4562830
+                                           [03]: KB4577586
+                                           [04]: KB4589212
+                                           [05]: KB5000736
+                                           [06]: KB5005101
+                                           [07]: KB5005260
+Placa(s) de Rede:                          6 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conexÆo: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.0.1
+                                                 Endere‡o(es) IP
+                                                 [01]: 192.168.0.108
+                                                 [02]: fe80::f145:67a9:94a1:2e15
+                                           [02]: Intel(R) Wireless-AC 9260 160MHz
+                                                 Nome da conexÆo: Wi-Fi
+                                                 Status:          M¡dia desconectada
+                                           [03]: VMware Virtual Ethernet Adapter for VMnet1
+                                                 Nome da conexÆo: VMware Network Adapter VMnet1
+                                                 DHCP ativado:    NÆo
+                                                 Endere‡o(es) IP
+                                                 [01]: 192.168.121.1
+                                                 [02]: fe80::4b3:dfce:ac70:8c48
+                                           [04]: VMware Virtual Ethernet Adapter for VMnet8
+                                                 Nome da conexÆo: VMware Network Adapter VMnet8
+                                                 DHCP ativado:    NÆo
+                                                 Endere‡o(es) IP
+                                                 [01]: 192.168.3.1
+                                                 [02]: fe80::2dd8:9af9:a1e7:3fc8
+                                           [05]: Kaspersky Security Data Escort Adapter
+                                                 Nome da conexÆo: Ethernet 2
+                                                 Status:          M¡dia desconectada
+                                           [06]: TAP-Windows Adapter V9
+                                                 Nome da conexÆo: Ethernet 3
+                                                 Status:          M¡dia desconectada
+Requisitos do Hyper-V:                     ExtensÆo de Modo de Monitor VM: Sim
+                                           Virtualiza‡Æo Habilitada no Firmware: Sim
+                                           ConversÆo de Endere‡os de Segundo N¡vel: Sim
+                                           Preven‡Æo de Execu‡Æo de Dados Dispon¡vel: Sim
+
+
+------------------------------------------------------ 
