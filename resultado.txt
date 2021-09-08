@@ -1,36 +1,25 @@
 
-Disparando 8.8.8.8 com 32 bytes de dados:
-Resposta de 8.8.8.8: bytes=32 tempo=11ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=15ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=8ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=10ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=8ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
-
-Estat¡sticas do Ping para 8.8.8.8:
-    Pacotes: Enviados = 10, Recebidos = 10, Perdidos = 0 (0% de
-             perda),
-Aproximar um n£mero redondo de vezes em milissegundos:
-    M¡nimo = 8ms, M ximo = 15ms, M‚dia = 9ms
+------------------------------------------------------
+* DATA/HORA: 08/09/2021 12:59
+------------------------------------------------------
+* TESTE DE PING: 
 
 Disparando 8.8.8.8 com 32 bytes de dados:
-Resposta de 8.8.8.8: bytes=32 tempo=8ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=8ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
-Resposta de 8.8.8.8: bytes=32 tempo=9ms TTL=114
+Resposta de 8.8.8.8: bytes=32 tempo=8ms TTL=113
+Resposta de 8.8.8.8: bytes=32 tempo=8ms TTL=113
+Resposta de 8.8.8.8: bytes=32 tempo=8ms TTL=113
 
 Estat¡sticas do Ping para 8.8.8.8:
-    Pacotes: Enviados = 10, Recebidos = 10, Perdidos = 0 (0% de
+    Pacotes: Enviados = 3, Recebidos = 3, Perdidos = 0 (0% de
              perda),
 Aproximar um n£mero redondo de vezes em milissegundos:
-    M¡nimo = 8ms, M ximo = 9ms, M‚dia = 8ms
+    M¡nimo = 8ms, M ximo = 8ms, M‚dia = 8ms
+
+------------------------------------------------------ 
+* TESTE DE VELOCIDADE DE INTERNET:
+
+Velocidade de Download: 296.9 Mbps
+Velocidade de Upload: 94.88 Mbps
+
+------------------------------------------------------ 
+* INFORMACOES DO COMPUTADOR:
